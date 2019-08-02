@@ -2,7 +2,7 @@
 local S = mobs.intllib
 
 
--- Lava Flan by Zeg9 (additional textures by JurajVajda)
+
 
 mobs:register_mob("mobs_fantasy:fire_elemental", {
 	type = "monster",
